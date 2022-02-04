@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Nourshosharah/Nourshosharah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Nourshosharah/Nourshosharah** 
 
 - ✨ Self-motivated and quick learner Computer Engineer 
 - 🔭 I’m interested in Data Science, Machine Learning, Deep Learning, and Natural Language processing.
